@@ -1,0 +1,80 @@
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">New York Tour guide</string>
+
+    <string-array name="tabs_names">
+        <item>Attractions</item>
+        <item>Parks</item>
+        <item>Restaurants</item>
+        <item>Monuments</item>
+    </string-array>
+
+    <string name="category_attractions">Attractions</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_monuments">Monuments</string>
+
+    <string name="show_map">show in map</string>
+
+    <string name="attraction_1">World Trade Center</string>
+    <string name="attraction_2">Brooklyn Bridge</string>
+    <string name="attraction_3">Liberty Statue</string>
+    <string name="attraction_4">Charging Bull</string>
+
+
+    <string name="charging_bull" >Charging Bull</string>
+    <string name="charging_bull_addr">Address: Broadway &amp; Morris St, \n New York, NY</string>
+    <string name="charging_bull_desc">Charging Bull, which is sometimes referred to as the Wall Street Bull or the Bowling Green Bull, is a bronze sculpture that stands in Bowling Green in the Financial District in Manhattan, New York City.</string>
+    <string name="liberty_statue_desc"> The Statue of Liberty is a colossal neoclassical sculpture on Liberty Island in New York Harbor in New York City, in the United States.</string>
+    <string name="liberty_statue_addr">Address: New York, NY 10004</string>
+    <string name="wtc_desc">The National September 11 Memorial and  Museum is a memorial and museum in New York City commemorating the September 11, 2001 attacks, which killed 2,977 people, and the 1993 World Trade Center bombing, which killed six.
+    </string>
+    <string name="wtc_addr">Address: 180 Greenwich St,\n New York, 10007</string>
+    <string name="brooklyn_bridge_desc">The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City and is one of the oldest roadway bridges in the United States.The Brooklyn Bridge was designed by John Roebling, a German-born engineer.</string>
+    <string name="brooklyn_bridge_addr">Address: Brooklyn Bridge, \n New York, NY 10038</string>
+
+    <string name="restaurant_1">Catch NYC</string>
+    <string name="restaurant_2">Nur</string>
+    <string name="restaurant_3">Del Posto</string>
+    <string name="restaurant_4">Blue Hill</string>
+
+
+    <string name="catch_nyc_desc">Slick, bi-level space known for celebrity sightings, creative seafood-focused food and a rooftop.
+    </string>
+    <string name="catch_addr">Address: 21 9th Ave, New York, NY 10014</string>
+    <string name="nur_desc">Stylish setting for Middle Eastern small plates and shareable dishes, plus breads and desserts.</string>
+    <string name="nur_addr">Address: 34 E 20th St, New York, \n NY 10003</string>
+    <string name="del_posto_desc">Updated Italian classics in palatial surroundings from Mario Batali and Joseph and Lidia Bastianich.</string>
+    <string name="del_posto_addr">Address: 85 10th Ave, New York, \n NY 10011</string>
+    <string name="blue_hill_desc">Locally sourced, seasonal ingredients abound on the American menu served at this townhouse-set spot.</string>
+    <string name="blue_hill_addr">Address: 75 Washington Pl, New York, \n NY 10011</string>
+
+    <string name="monument_1">Fort Stanwix National Monument</string>
+    <string name="monument_2">African Burial Ground National Monument</string>
+    <string name="monument_3">Castle Clinton National Monument</string>
+    <string name="monument_4">Stonewall National Monument</string>
+
+    <string name="fort_stanwix_desc">Fort Stanwix National Monument is a United States National Historic Site in Rome, New York, managed by the National Park Service. The current fort is a reconstruction of the historic Fort Stanwix occupying approximately 16 acres of downtown Rome.Established in August 21, 1935</string>
+    <string name="fort_stanwix_addr">100 N James St, Rome, \n NY 13440</string>
+    <string name="african_national_monument_desc">African Burial Ground National Monument is a monument at Duane Street and African Burial Ground Way in the Civic Center section of Lower Manhattan, New York City. Its main building is the Ted Weiss Federal Building at 290 Broadway.</string>
+    <string name="african_monument_addr">290 Broadway, New York, \n NY 10007</string>
+    <string name="castle_clinton_desc">Castle Clinton or Fort Clinton, previously known as Castle Garden, is a circular sandstone fort now located in Battery Park, in Manhattan, New York City.</string>
+    <string name="castle_clinton_addr"> Battery Park, New York, \n NY 10004</string>
+    <string name="stonewall_national_monument_desc">Stonewall National Monument is a 7.7-acre U.S. National Monument in the West Village neighborhood of Greenwich Village in Lower Manhattan, New York City.</string>
+    <string name="stonewall_addr">West 4th Street, New York, \n NY 10014</string>
+
+    <string name="park_1">The Battery Park</string>
+    <string name="park_2">Central Park</string>
+    <string name="park_3">High Line</string>
+    <string name="park_4">Washington Square Park</string>
+
+    <string name="battery_park_desc">Battery Park City is a mainly residential 92-acre planned community on the west side of the southern tip of the island of Manhattan in New York City. More than one-third of the development is parkland.</string>
+    <string name="battery_park_addr"> Manhattan, \n NY</string>
+    <string name="central_park_desc">Central Park is an urban park in Manhattan, New York City. It is located between the Upper West Side and Upper East Side, roughly bounded by Fifth Avenue on the east, Central Park West (Eighth Avenue) on the west, Central Park South (59th Street) on the south, and Central Park North (110th Street) on the north. </string>
+    <string name="central_park_addr"> New York, \n NY</string>
+    <string name="high_line_park_desc">The High Line is a 1.45-mile-long elevated linear park, greenway and rail trail. It was created on a former New York Central Railroad spur on the west side of Manhattan in New York City.</string>
+    <string name="high_line_park_addr"> New York, \n NY 10011</string>
+    <string name="washington_square_park_desc">Washington Square Park is a 9.75-acre public park in the Greenwich Village neighborhood of Lower Manhattan, New York City. </string>
+    <string name="washington_square_park_addr"> New York, \n NY 10012</string>
+
+</resources>
